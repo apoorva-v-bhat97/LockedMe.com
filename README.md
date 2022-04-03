@@ -4,7 +4,7 @@ Project details : LockedMe.com
 developer details : Apoorva Bhat
 
 Sprints planned and the tasks achieved in them
- --> Sprint Planned:2
+ --> Sprint Planned:3
  --> Task achieved: Design, Coding ( to provide basic file ops feature)
 
 Algorithms and flowcharts of the application 
